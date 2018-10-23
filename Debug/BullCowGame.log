@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+d:\unrealprojects\udemy\c++dev\section_02\bullcowgame\fbullcowgame.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  BullCowGame.vcxproj -> D:\UnrealProjects\Udemy\C++Dev\Section_02\Debug\BullCowGame.exe
